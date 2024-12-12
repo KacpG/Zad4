@@ -1,2 +1,3 @@
+y = 22
 x = 2
-print("2",x)
+print(y,"2",x)
