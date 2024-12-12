@@ -1,2 +1,3 @@
+y = 11
 x = 1
-print("1",x)
+print(y,"1",x)
